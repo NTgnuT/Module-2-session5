@@ -1,0 +1,15 @@
+.t-input {
+    height: 36px;
+    border: 1px solid #dadada;
+    border-radius: 5px;
+    outline: none;
+    padding: 0 16px;
+}
+
+.t-input:hover{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.t-input:focus{
+    border-color: rgb(25, 167, 255);
+}
